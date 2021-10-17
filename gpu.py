@@ -1,0 +1,2 @@
+import GPUtil
+GPUtil.getAvailable()
